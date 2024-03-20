@@ -3,8 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
-    background-color: "green";
-    color:"white";
-    font-family:"sans-sarif"
+    background-color: green;
+    color:white;
+    font-family:sans-sarif
+}
+h1{
+    border: 2px solid yellow;
+    border-radius: 10px;
 }
